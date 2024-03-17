@@ -8,6 +8,7 @@ CREATE DATABASE YummyFoods;
 CREATE TABLE Category(
     categoryID int AUTO_INCREMENT,
     productType char(10) NOT NULL,
+    productSection char(15) NOT NULL,
 
     PRIMARY KEY(categoryID)
 );
