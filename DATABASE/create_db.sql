@@ -7,7 +7,7 @@ CREATE DATABASE YummyFoods;
 -- Categorizes each product as either: Produce, Meats, or Dairy
 CREATE TABLE Category(
     categoryID int AUTO_INCREMENT,
-    productType char(10) NOT NULL,
+    productType char(15) NOT NULL,
     productSection char(15) NOT NULL,
 
     PRIMARY KEY(categoryID)
