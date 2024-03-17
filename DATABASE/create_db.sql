@@ -70,7 +70,3 @@ CREATE TABLE suppliers(
     PRIMARY KEY(productID, supplierName, supplyDate),
     FOREIGN KEY(productID) REFERENCES products(productID)
 );
-
--- checks if tables were created successfuly
-DESCRIBE category;
-DESCRIBE products;
