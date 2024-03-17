@@ -5,7 +5,7 @@ CREATE DATABASE YummyFoods;
 -- Create tables needed for the project
 
 -- Categorizes each product as either: Produce, Meats, or Dairy
-CREATE TABLE category(
+CREATE TABLE Category(
     categoryID int AUTO_INCREMENT,
     productType char(10) NOT NULL,
 
@@ -13,7 +13,7 @@ CREATE TABLE category(
 );
 
 -- Table for products sold in store
-CREATE TABLE products (
+CREATE TABLE Products (
     productID int AUTO_INCREMENT,
     productName varchar(20) NOT NULL UNIQUE,
     price decimal(5,2) NOT NULL,
@@ -21,11 +21,11 @@ CREATE TABLE products (
     categoryID int,
 
     PRIMARY KEY (productID),
-    FOREIGN KEY (categoryID) REFERENCES category(categoryID)
+    FOREIGN KEY (categoryID) REFERENCES Category(categoryID)
 );
 
 -- Stores contact information for employees
-CREATE TABLE contact(
+CREATE TABLE Contact(
     contactID int AUTO_INCREMENT,
     firstName varchar(20) NOT NULL,
     lastName varchar(20) NOT NULL,
@@ -36,18 +36,18 @@ CREATE TABLE contact(
 );
 
 -- Employee table keeps track of employees, their department and pay
-CREATE TABLE employees(
+CREATE TABLE Employees(
     employeeID int AUTO_INCREMENT,
     contactID int,
     department varchar(15) NOT NULL,
     salary decimal(5,2),
     
     PRIMARY KEY(employeeID),
-    FOREIGN KEY(contactID) REFERENCES contact(contactID)
+    FOREIGN KEY(contactID) REFERENCES Contact(contactID)
 );
 
 -- Transaction table: keeps track of transactions
-CREATE TABLE transactions(
+CREATE TABLE Transactions(
     orderID int AUTO_INCREMENT,
     productID int,
     employeeID int,
@@ -56,17 +56,17 @@ CREATE TABLE transactions(
     dateOfTransaction TIMESTAMP,
 
     PRIMARY KEY(orderID),
-    FOREIGN KEY(productID) REFERENCES products(productID),
-    FOREIGN KEY(employeeID) REFERENCES employees(employeeID)
+    FOREIGN KEY(productID) REFERENCES Products(productID),
+    FOREIGN KEY(employeeID) REFERENCES Employees(employeeID)
 );
 
 -- Table to keep track of suppliers to the store
-CREATE TABLE suppliers(
+CREATE TABLE Suppliers(
     productID int,
     supplierName varchar(200) NOT NULL,
     quantity int,
     supplyDate TIMESTAMP,
 
     PRIMARY KEY(productID, supplierName, supplyDate),
-    FOREIGN KEY(productID) REFERENCES products(productID)
+    FOREIGN KEY(productID) REFERENCES Products(productID)
 );
