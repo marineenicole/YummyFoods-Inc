@@ -1,0 +1,15 @@
+Shrimp, $10.99/lb, 50
+Salmon, $9.99/lb, 50
+Tuna, $11.99/lb, 50
+Cod, $8.99/lb, 50
+Crab, $12.99/lb, 50
+Lobster, $14.99/lb, 50
+Mussels, $5.99/lb, 50
+Clams, $6.99/lb, 50
+Scallops, $13.99/lb, 50
+Oysters, $7.99/lb, 50
+Tilapia, $7.99/lb, 50
+Catfish, $8.99/lb, 50
+Sardines, $4.99/lb, 50
+Anchovies, $3.99/lb, 50
+Squid (Calamari), $9.99/lb, 50
