@@ -1,0 +1,73 @@
+Artichoke, $2.99, 100
+Asparagus, $3.49, 80
+Eggplant, $1.99, 120
+Avocado, $1.49, 200
+Beet, $1.29, 150
+Bok Choy, $1.79, 100
+Broccoli, $1.99, 120
+Brussel Sprouts, $2.29, 80
+Green Cabbage, $0.99, 150
+Purple Cabbage, $1.19, 120
+Savoy Cabbage, $1.39, 100
+Carrots, $0.79, 200
+Cauliflower, $2.49, 100
+Celeriac, $1.99, 80
+Celery, $1.29, 150
+Red Chard, $1.99, 100
+Swiss Chard, $1.79, 120
+Chicory, $1.49, 100
+Corn, $0.50, 200
+Cress, $1.99, 80
+Cucumbers, $1.29, 150
+Daikon, $1.49, 100
+Garlic, $0.75, 200
+Broccolini, $2.29, 80
+Broccoli Raab, $2.49, 70
+Green Beans, $2.29, 100
+Greens, $2.49, 80
+Collard Greens, $2.49, 80
+Mustard Greens, $2.49, 80
+Gourds, $1.99, 100
+Jimaca, $1.99, 100
+Kale, $2.49, 80
+Kohlrabi, $1.99, 100
+Leeks, $1.79, 120
+Arugula Lettuce, $1.99, 100
+Butter Lettuce, $1.99, 100
+Endive Lettuce, $1.99, 100
+Green Leaf Lettuce, $1.99, 100
+Red Leaf Lettuce, $1.99, 100
+Romaine Lettuce, $1.99, 100
+Lima Beans, $1.99, 100
+Mushrooms, $2.99, 80
+Okra, $2.49, 100
+Onions, $0.99, 150
+Green Onions, $0.99, 150
+Parsnip, $1.49, 100
+Peas, $1.99, 80
+Snap Sugar Peas, $1.99, 80
+Snow Peas, $1.99, 80
+Anaheim Peppers, $1.49, 100
+Sweet Peppers, $1.99, 80
+Potatoes, $0.99, 150
+Pumpkin, $1.29, 120
+Radicchio, $1.79, 120
+Radish, $0.99, 150
+Rhubarb, $1.99, 100
+Romanesco (Cauliflower), $2.99, 70
+Rutabaga, $1.49, 100
+Shallots, $1.79, 120
+Spinach, $2.49, 80
+Squash, $1.29, 120
+Acorn Squash, $1.49, 100
+Butternut Squash, $1.79, 120
+Patti Pan Squash, $1.99, 100
+Spaghetti Squash, $1.79, 120
+Swede, $1.49, 100
+Sweet Potato, $0.99, 150
+Tomatillo, $1.49, 100
+Tomatoes, $1.99, 80
+Turnips, $1.29, 120
+Water Chestnuts, $1.99, 100
+Yam, $0.99, 150
+Zucchini, $1.29, 120
