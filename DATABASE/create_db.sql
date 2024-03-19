@@ -16,7 +16,7 @@ CREATE TABLE Category(
 -- Table for products sold in store
 CREATE TABLE Products (
     productID int AUTO_INCREMENT,
-    productName varchar(20) NOT NULL UNIQUE,
+    productName varchar(50) NOT NULL UNIQUE,
     price decimal(5,2) NOT NULL,
     inStock int NOT NULL,
     categoryID int,
