@@ -1,12 +1,12 @@
-Turkey bone-in breast, $3.99/lb, 50
-Turkey boneless breast, $4.99/lb, 50
-Ground turkey, $2.99/lb, 50
-Turkey drumstick, $2.49/lb, 50
-Turkey thigh, $2.99/lb, 50
-Turkey wing, $1.99/lb, 50
-Whole turkey, $1.99/lb, 50
-Turkey tenderloin, $4.49/lb, 50
-Turkey liver, $1.49/lb, 50
-Breast quarter, $3.49/lb, 50
-Turkey drum, $3.49/lb, 50
-Leg quarter, $2.99/lb, 50
+Turkey bone-in breast, 3.99, 50
+Turkey boneless breast, 4.99, 50
+Ground turkey, 2.99, 50
+Turkey drumstick, 2.49, 50
+Turkey thigh, 2.99, 50
+Turkey wing, 1.99, 50
+Whole turkey, 1.99, 50
+Turkey tenderloin, 4.49, 50
+Turkey liver, 1.49, 50
+Breast quarter, 3.49, 50
+Turkey drum, 3.49, 50
+Leg quarter, 2.99, 50
