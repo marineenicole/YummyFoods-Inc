@@ -28,8 +28,6 @@ CREATE TABLE Products (
 -- Stores contact information for employees
 CREATE TABLE Contact(
     contactID int AUTO_INCREMENT,
-    firstName varchar(20) NOT NULL,
-    lastName varchar(20) NOT NULL,
     phone varchar(20) NOT NULL,
     email varchar(50) NOT NULL UNIQUE,
     
@@ -39,6 +37,8 @@ CREATE TABLE Contact(
 -- Employee table keeps track of employees, their department and pay
 CREATE TABLE Employees(
     employeeID int AUTO_INCREMENT,
+    firstName varchar(20) NOT NULL,
+    lastName varchar(20) NOT NULL,
     contactID int,
     department varchar(15) NOT NULL,
     salary decimal(5,2),
