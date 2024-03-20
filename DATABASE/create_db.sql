@@ -1,19 +1,20 @@
 -- Database creation for YummyFoods Inc.
-
+DROP DATABASE IF EXISTS YummyFoods;
 CREATE DATABASE YummyFoods;
+USE YummyFoods;
 
--- Create tables needed for the project
-
--- Categorizes each product as either: Produce, Meats, or Dairy
+-- Categorizes products as Produce, Meats, or Dairy
+DROP TABLE IF EXISTS Category;
 CREATE TABLE Category(
     categoryID int AUTO_INCREMENT,
-    productType char(15) NOT NULL,
+    productType char(15) NOT NULL UNIQUE,
     productSection char(15) NOT NULL,
 
     PRIMARY KEY(categoryID)
-);
+) AUTO_INCREMENT = 1;
 
 -- Table for products sold in store
+DROP TABLE IF EXISTS Products;
 CREATE TABLE Products (
     productID int AUTO_INCREMENT,
     productName varchar(50) NOT NULL UNIQUE,
@@ -23,9 +24,10 @@ CREATE TABLE Products (
 
     PRIMARY KEY (productID),
     FOREIGN KEY (categoryID) REFERENCES Category(categoryID)
-);
+)AUTO_INCREMENT = 100;
 
 -- Stores contact information for employees
+DROP TABLE IF EXIST Contact;
 CREATE TABLE Contact(
     contactID int AUTO_INCREMENT,
     phone varchar(20) NOT NULL,
@@ -34,20 +36,22 @@ CREATE TABLE Contact(
     PRIMARY KEY(contactID)
 );
 
--- Employee table keeps track of employees, their department and pay
+-- Keeps track of employees, department and pay
+DROP TABLE IF EXISTS Employees;
 CREATE TABLE Employees(
     employeeID int AUTO_INCREMENT,
     firstName varchar(20) NOT NULL,
     lastName varchar(20) NOT NULL,
     contactID int,
-    department varchar(15) NOT NULL,
+    department varchar(30) NOT NULL,
     hourlyRate decimal(5,2),
     
     PRIMARY KEY(employeeID),
     FOREIGN KEY(contactID) REFERENCES Contact(contactID)
 );
 
--- Transaction table: keeps track of transactions
+-- Keeps track of transactions
+DROP TABLE IF EXISTS Transactions;
 CREATE TABLE Transactions(
     orderID int AUTO_INCREMENT,
     productID int,
@@ -62,6 +66,7 @@ CREATE TABLE Transactions(
 );
 
 -- Table to keep track of suppliers to the store
+DROP TABLE IF EXISTS Suppliers;
 CREATE TABLE Suppliers(
     productID int,
     supplierName varchar(200) NOT NULL,
