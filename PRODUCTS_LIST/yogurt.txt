@@ -1,0 +1,41 @@
+8oz Regular Yogurt (Plain), 1.99, 100
+8oz Regular Yogurt (Flavored), 2.49, 80
+8oz Greek Yogurt (Plain), 2.49, 80
+8oz Greek Yogurt (Flavored), 2.99, 70
+8oz Goat’s Milk Yogurt (Plain), 3.99, 60
+8oz Goat’s Milk Yogurt (Flavored), 4.49, 50
+8oz Sheep’s Milk Yogurt (Plain), 4.49, 50
+8oz Sheep’s Milk Yogurt (Flavored), 4.99, 40
+8oz Icelandic Yogurt (Plain), 3.49, 70
+8oz Icelandic Yogurt (Flavored), 3.99, 60
+8oz Soy Yogurt (Plain), 2.99, 90
+8oz Soy Yogurt (Flavored), 3.49, 80
+8oz Almond Yogurt (Plain), 3.49, 70
+8oz Almond Yogurt (Flavored), 3.99, 60
+8oz Cashew Yogurt (Plain), 3.99, 60
+8oz Cashew Yogurt (Flavored), 4.49, 50
+8oz Coconut Yogurt (Plain), 3.49, 70
+8oz Coconut Yogurt (Flavored), 3.99, 60
+8oz Kefir (Plain), 2.99, 90
+8oz Kefir (Flavored), 3.49, 80
+
+32oz Regular Yogurt (Plain), 3.99, 40
+32oz Regular Yogurt (Flavored), 4.99, 30
+32oz Greek Yogurt (Plain), 4.99, 30
+32oz Greek Yogurt (Flavored), 5.99, 25
+32oz Goat’s Milk Yogurt (Plain), 7.99, 25
+32oz Goat’s Milk Yogurt (Flavored), 8.99, 20
+32oz Sheep’s Milk Yogurt (Plain), 8.99, 20
+32oz Sheep’s Milk Yogurt (Flavored), 9.99, 15
+32oz Icelandic Yogurt (Plain), 6.99, 35
+32oz Icelandic Yogurt (Flavored), 7.99, 30
+32oz Soy Yogurt (Plain), 5.99, 45
+32oz Soy Yogurt (Flavored), 6.99, 40
+32oz Almond Yogurt (Plain), 6.99, 35
+32oz Almond Yogurt (Flavored), 7.99, 30
+32oz Cashew Yogurt (Plain), 7.99, 30
+32oz Cashew Yogurt (Flavored), 8.99, 20
+32oz Coconut Yogurt (Plain), 6.99, 35
+32oz Coconut Yogurt (Flavored), 7.99, 30
+32oz Kefir (Plain), 5.99, 45
+32oz Kefir (Flavored), 6.99, 40
