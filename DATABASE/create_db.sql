@@ -41,7 +41,7 @@ CREATE TABLE Employees(
     lastName varchar(20) NOT NULL,
     contactID int,
     department varchar(15) NOT NULL,
-    salary decimal(5,2),
+    hourlyRate decimal(5,2),
     
     PRIMARY KEY(employeeID),
     FOREIGN KEY(contactID) REFERENCES Contact(contactID)
