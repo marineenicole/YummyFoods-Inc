@@ -1,0 +1,14 @@
+Shoulder steak bone-in, 3.99, 50
+Shoulder roast bone-in, 3.49, 50
+Shoulder country-style ribs bone-in, 3.99, 50
+New York chop, 4.99, 50
+Porterhouse chop, 5.99, 50
+Ribeye chop, 5.99, 50
+Sirloin chop boneless, 6.49, 50
+Loin back ribs, 4.99, 50
+Loin country-style ribs bone-in, 3.99, 50
+Loin country-style rib boneless, 4.49, 50
+New York roast, 4.99, 50
+Tenderloin, 6.99, 50
+Spareribs, 3.99, 50
+St. Louis-style ribs, 4.99, 50

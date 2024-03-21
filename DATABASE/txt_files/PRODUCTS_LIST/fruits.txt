@@ -1,0 +1,68 @@
+Apples, 1.29, 150
+Apricot, 1.99, 100
+Banana, 0.69, 200
+Blackberry, 2.99, 80
+Blueberry, 3.49, 70
+Boysenberry, 3.99, 60
+Canary Melon, 2.49, 100
+Cantaloupe, 1.99, 120
+Casaba Melon, 2.49, 100
+Cherimoya, 3.99, 60
+Cherry, 2.99, 80
+Christmas Melon, 2.49, 100
+Clementine, 1.79, 120
+Cranberry, 2.49, 100
+Crenshaw Melon, 2.99, 80
+Currants, 2.99, 80
+Dates (tree dried), 3.49, 70
+Dragon Fruit, 4.99, 50
+Durian, 5.99, 40
+Figs, 2.49, 100
+Gooseberry, 3.49, 70
+Grapes, 2.99, 80
+Grapefruit, 1.99, 100
+Guava, 1.79, 120
+Honeydew Melon, 1.99, 120
+Horned Melon, 3.99, 60
+Jack Fruit, 3.99, 60
+Jujube, 2.49, 100
+Kiwi, 1.49, 150
+Kumquat, 2.49, 100
+Lemon, 0.99, 200
+Lime, 0.79, 200
+Loganberry, 3.49, 70
+Longan, 2.99, 80
+Loquat, 2.49, 100
+Lychee, 3.99, 60
+Mandarin, 1.79, 120
+Mango, 1.99, 100
+Mangosteen, 3.99, 60
+Mamoncillo, 3.49, 70
+Minneola, 1.79, 120
+Musk Melon, 2.49, 100
+Nance, 3.49, 70
+Nectarine, 1.99, 100
+Orange, 1.29, 150
+Blood Orange, 1.49, 120
+Papaya, 1.99, 100
+Passion Fruit, 2.99, 80
+Peach, 1.49, 120
+Pear, 1.29, 150
+Persimmon, 2.49, 100
+Pineapple, 2.99, 80
+Plum, 1.99, 100
+Pomegranate, 2.99, 80
+Prickly (cactus) Pear, 3.49, 70
+Pummelo, 2.49, 100
+Pulasan, 3.49, 70
+Rambutan, 3.49, 70
+Raspberries, 3.99, 60
+Satsuma, 1.79, 120
+Soursop, 3.99, 60
+Star Fruit (Carambola), 2.49, 100
+Strawberry, 2.99, 80
+Tamarillo, 2.49, 100
+Tangelo, 1.99, 100
+Tangerine, 1.79, 120
+Ugli fruit, 2.49, 100
+Watermelon, 1.99, 120
