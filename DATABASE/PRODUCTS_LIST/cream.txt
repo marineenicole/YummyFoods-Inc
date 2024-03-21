@@ -1,0 +1,12 @@
+Clotted Cream, 7.99, 30 
+Heavy Cream, 4.49, 60 
+Whipping Cream, 4.99, 50 
+Light Cream, 3.99, 70 
+Sour Cream, 2.49, 80 
+Half-and-Half, 2.99, 75 
+Ice Cream (Vanilla), 5.99, 40 
+Ice Cream (Chocolate), 5.99, 45 
+Ice Cream (Strawberry), 5.99, 35 
+Ice Cream (Mint Chocolate Chip), 5.99, 30 
+Ice Cream (Cookie Dough), 5.99, 40 
+Ice Cream (Cookies and Cream), 5.99, 45 

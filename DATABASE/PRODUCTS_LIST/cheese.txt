@@ -1,0 +1,28 @@
+American, 3.99, 50 
+Asiago, 5.49, 40 
+Blue Cheese, 4.99, 30 
+Bocconcini, 6.99, 45 
+Brie, 7.99, 35 
+Burrata, 8.49, 25 
+Cheddar, 4.49, 55 
+Colby, 3.99, 50 
+Colby Jack, 4.49, 60 
+Cottage Cheese, 2.99, 70 
+Cream Cheese, 2.49, 80 
+Feta, 5.99, 45 
+Fresh Mozzarella, 6.49, 40 
+Gouda, 6.99, 35 
+Gruyere, 7.49, 30 
+Havarti, 6.99, 35 
+Monterey Jack, 4.49, 60 
+Mozzarella, 5.49, 50 
+Muenster, 4.99, 55 
+Parmesan, 6.99, 40 
+Pepper Jack, 5.49, 50 
+Provolone, 5.49, 45 
+Ricotta, 3.99, 65 
+Romano, 5.99, 40 
+Swiss, 5.99, 50 
+String Cheese, 3.49, 75 
+Mascarpone, 7.99, 30 
+Limburger, 8.99, 20 

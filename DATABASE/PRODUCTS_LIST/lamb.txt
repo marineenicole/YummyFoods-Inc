@@ -1,0 +1,32 @@
+Whole leg, 6.99, 50
+Shoulder cut leg sirloin off, 5.99, 50
+Center leg roast, 6.49, 50
+Center cut leg steak, 7.49, 50
+Butterflied leg, 6.99, 50
+Boneless leg roast (BRT), 6.99, 50
+Frenched Hindshank, 5.99, 50
+Sirloin chop, 6.99, 50
+Boneless sirloin roast, 7.99, 50
+Cubes for kabobs, 8.99, 50
+Top round, 6.99, 50
+Loin roast, 8.99, 50
+Double boneless loin roast (BRT), 9.99, 50
+Loin chop, 7.99, 50
+Double loin chop, 8.99, 50
+Tenderloin, 9.99, 50
+Foreshank, 5.99, 50
+Spareribs (Denver ribs), 6.99, 50
+Lamb belly, 4.99, 50
+Riblets, 5.99, 50
+Crown roast, 9.99, 50
+Rib roast, 9.99, 50
+Frenched rib roast, 10.99, 50
+Rib chop, 7.99, 50
+Frenched rib chop, 8.99, 50
+Square cut shoulder whole, 6.99, 50
+Boneless shoulder roast (BRT), 7.99, 50
+Blade chop, 6.99, 50
+Arm chop, 5.99, 50
+Neck slices, 5.99, 50
+Lamb for stew, 7.99, 50
+Ground lamb, 7.99, 50
