@@ -23,7 +23,7 @@ CREATE TABLE Products (
     categoryID int,
 
     PRIMARY KEY (productID),
-    FOREIGN KEY (categoryID) REFERENCES Category(categoryID)
+    FOREIGN KEY (categoryID) REFERENCES Category(categoryID) ON DELETE CASCADE
 )AUTO_INCREMENT = 100;
 
 -- Stores contact information for employees
@@ -34,7 +34,7 @@ CREATE TABLE Contact(
     email varchar(50) NOT NULL UNIQUE,
     
     PRIMARY KEY(contactID)
-);
+) AUTO_INCREMENT = 400;
 
 -- Keeps track of employees, department and pay
 DROP TABLE IF EXISTS Employees;
@@ -47,7 +47,7 @@ CREATE TABLE Employees(
     hourlyRate decimal(5,2),
     
     PRIMARY KEY(employeeID),
-    FOREIGN KEY(contactID) REFERENCES Contact(contactID)
+    FOREIGN KEY(contactID) REFERENCES Contact(contactID) ON DELETE CASCADE
 );
 
 -- Keeps track of transactions
