@@ -30,3 +30,11 @@ SELECT * FROM Products;
 
 -- Suppliers table has to be populated AFTER products table
 SELECT * FROM Suppliers;
+
+/*
+        AFTER running views.sql
+*/
+
+SELECT * FROM produceSection;
+SELECT * FROM meatSection;
+SELECT * FROM dairySection;
