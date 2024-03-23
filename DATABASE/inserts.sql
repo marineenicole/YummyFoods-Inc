@@ -92,11 +92,13 @@ INSERT INTO Employees(firstName, lastName, contactID, department, hourlyRate) VA
     ( 'Jonathan', 'Rivera', 433, 'Security', 20.00),
     ( 'Patrick', 'Scott', 434, 'Security', 20.00);
 
-
+/*
+    NOTE: RUN THIS TABLE AFTER RUNNING product_inserrts.sql
+*/
 -- Insert Values into suppliers 
 INSERT INTO Suppliers(productID, supplierName, quantity, supplyDate) VALUES 
     (128, 'FreshFoods Co.', 100, '2024-03-21 12:00:00'),
-    (107, 'FarmFresh Supplies', 150, '2024-03-21 12:30:54'),
+    (105, 'FarmFresh Supplies', 150, '2024-03-21 12:30:54'),
     (120, 'PrimeProduce Ltd.', 120, '2024-03-21 15:58:03'),
     (346, 'DairyDelight Inc.', 50, '2024-03-21 19:45:37'),
     (195, 'MeatMaster Suppliers', 50, '2024-03-22 06:11:41'),
