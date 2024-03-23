@@ -3,7 +3,7 @@
     This file is for checking if the database was implemented correctly.
 */
 
--- After creating the database
+-- RUN THESE COMMANDS AFTER running create_db.sql
 SHOW DATABASES;
 
 USE YummyFoods;
@@ -19,3 +19,14 @@ DESCRIBE Employees;
 DESCRIBE Transactions;
 DESCRIBE Suppliers;
 
+-- After running inserts.sql
+-- Checks that data was inserted correctly
+SELECT * FROM Category;
+SELECT * FROM Contact;
+SELECT * FROM Employees;
+
+-- After running product_inserts.sql
+SELECT * FROM Products;
+
+-- Suppliers table has to be populated AFTER products table
+SELECT * FROM Suppliers;
