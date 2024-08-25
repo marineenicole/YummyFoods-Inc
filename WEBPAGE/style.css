@@ -1,0 +1,47 @@
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.nav {
+    border:  solid yellow;
+    height: 5vh;
+}
+
+.menu {
+    display: flex;
+}
+
+.cat {
+    border: solid green;
+    width: 30vw;
+    height: 50vh;
+}
+
+.hero {
+    border: solid blue;
+    width: 70vw;
+    height:50vh;
+}
+
+.circles {
+    align-items: center;
+    border: solid pink;
+
+    height: 30vh;
+}
+
+.circles > a {
+    border: solid purple;
+
+    justify-content: center;
+    border-radius: 50px;
+}
+
+
+footer {
+    border: solid orange;
+    height: 15vh;
+}
