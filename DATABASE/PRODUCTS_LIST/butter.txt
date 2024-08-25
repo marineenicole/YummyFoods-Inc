@@ -1,8 +1,0 @@
-Salted Butter, 4.99, 50 
-Unsalted Butter, 4.99, 60 
-Clarified Butter, 5.49, 40 
-European Style Butter, 6.99, 30 
-Whipped Butter, 5.99, 45 
-Ghee, 7.49, 35 
-Cultured Butter, 5.99, 55 
-Spreadable Butter, 6.49, 50 
